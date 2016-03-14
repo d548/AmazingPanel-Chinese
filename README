@@ -1,2 +1,4 @@
+AMazING控制面板包括测试平台管理系统。测试平台管理系统，建立在OMF使能的测试平台的顶部。平台通过干净的web接口，使实验者易于使用，不需要知道很多底层工具的知识，促进实验的创新和再实现。
+
 The AMazING Panel consists on a Testbed Management System built on top of an OMF-enabled testbed. The platform aims to provide easy-of-use for experimenters through a clean web interface,
 facilitating the creation and reproducibility of their experiments, without having much knowledge on the tools underneath.
