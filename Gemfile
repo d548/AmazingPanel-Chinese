@@ -31,8 +31,8 @@ gem 'ruby2ruby'
 # PDF's
 gem 'prawn'
 gem 'prawn_rails'
-#gem 'spawn'
-#gem 'pdfkit'
+# gem 'spawn'
+# gem 'pdfkit'
 
 # HTML5 Upload
 gem 'rack-raw-upload'
